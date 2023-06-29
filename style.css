@@ -1,0 +1,44 @@
+* {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+   }
+   
+   body {
+    background-color: black;
+   }
+   
+   
+   #app {
+    margin: 0 auto;
+    width: 20rem;
+   }
+   
+   .actions {
+    margin-top: 10px;
+    text-align: right;
+   }
+   
+   .sec {
+    text-align: center;
+   }
+   
+   button {
+    color: white;
+    background-color: purple;
+    border-radius: 10px;
+    transition: all 0.3s;
+   }
+   
+   button:hover{
+    color: purple;
+    background-color: rgb(251, 91, 251);
+   }
+   
+   
+   .levelSelector {
+    color: white;
+    background-color: black;
+   }
+
+   
